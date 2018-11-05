@@ -1,0 +1,2 @@
+Could not locate a Bowtie index corresponding to basename "sample1A"
+Command: /Users/hopeloiselle/Documents/Bowtie/bowtie-align-s --wrapper basic-0 sample1A /Users/hopeloiselle/Documents/GitHub/hope-oyster/data/sample1A.fq 

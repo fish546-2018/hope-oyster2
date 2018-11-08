@@ -1,0 +1,4 @@
+../oysterdata/sample1A.fq.gz
+../oysterdata/sample1B.fq.gz
+../oysterdata/sample2A.fq.gz
+../oysterdata/sample2B.fq.gz

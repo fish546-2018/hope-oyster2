@@ -4,3 +4,7 @@
 *.bt2
 *.bam
 *.sam
+*.gff
+*.bcf
+*.bai
+*.fai

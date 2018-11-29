@@ -13,4 +13,6 @@ Scripts: scripts for downloading data, running fastQC, aligning using bowtie, ca
 
 Other: flowchart of steps 
 
+Next steps: Possible next steps could be to see which genes SNPs fall into and if they affect the function of the genes or change amino acids. The number of SNPs with the genome as a whole could also be used to evaluate population diversity
+
 
